@@ -1,0 +1,14 @@
+Looking in indexes: https://pypi.org/simple, https://pypi.ngc.nvidia.com
+Collecting torch
+  Downloading torch-1.10.2-cp36-cp36m-win_amd64.whl (226.6 MB)
+Collecting torchvision
+  Downloading torchvision-0.11.3-cp36-cp36m-win_amd64.whl (985 kB)
+Collecting typing-extensions
+  Downloading typing_extensions-4.1.1-py3-none-any.whl (26 kB)
+Collecting dataclasses
+  Downloading dataclasses-0.8-py3-none-any.whl (19 kB)
+Collecting pillow!=8.3.0,>=5.3.0
+  Downloading Pillow-8.4.0-cp36-cp36m-win_amd64.whl (3.2 MB)
+Requirement already satisfied: numpy in c:\users\marco\anaconda3\envs\indudonet_env\lib\site-packages (from torchvision) (1.19.5)
+Installing collected packages: typing-extensions, dataclasses, torch, pillow, torchvision
+Successfully installed dataclasses-0.8 pillow-8.4.0 torch-1.10.2 torchvision-0.11.3 typing-extensions-4.1.1
